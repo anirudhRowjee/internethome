@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "author": {
+      "name": "Anirudh Rowjee",
+      "one_line_desc": "I learn by building and breaking",
+      "twitter": "https://twitter.com/anirudhRowjee",
+      "github": "https://github.com/anirudhRowjee"
+    },
+    "saaru_github": "https://github.com/anirudhRowjee/saaru",
+    "templates": {
+      "default": "post.jinja"
+    }
+  }
+}

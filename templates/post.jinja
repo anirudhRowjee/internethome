@@ -1,0 +1,33 @@
+{% extends "base.jinja" %}
+
+{% block title %}
+- {{frontmatter.title}}
+{% endblock %}
+
+{% block main_template_content %}
+<div>
+    <h1> {{frontmatter.title}} </h1>
+    <p> Anirudh Rowjee {% if frontmatter.date %}{{frontmatter.date}}{% endif %} </p>
+    <p> {{frontmatter.description}} </p>
+    <p>
+        {% for tag in frontmatter.tags %}
+        <a class="tag" href="/tags/{{tag}}"> {{ tag }} </a>
+        {% endfor %}
+    </p>
+</div>
+<hr>
+<div class="post">
+    {{postcontent | safe}}
+</div>
+
+{% if frontmatter.tags %}
+Tags: {% for tag in frontmatter.tags %}
+<a class="tag" href="/tags/{{tag}}">{{tag}}</a>
+{% endfor %}
+{% endif %}
+{% if frontmatter.collections %}
+Collections: {% for tag in frontmatter.collections %}
+<a class="tag" href="/tags#{{tag}}">{{tag}}</a>
+{% endfor %}
+{% endif %}
+{% endblock %}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicons/favicon.ico">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/styles/tokyo-night-dark.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.7.0/build/highlight.min.js"></script>
+
+    <link rel="preconnect" href="https://rsms.me/">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&family=Lato:wght@300&family=Merriweather:wght@300&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="/static/main.css">
+
+    <style>
+    </style>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title> Anirudh Rowjee {% block title %}{% endblock %} </title>
+</head>
+
+<body>
+    <main class="container">
+        {% include "menubar.jinja" %}
+        {% block main_template_content %}
+        {% endblock %}
+        {% include "footer.jinja" %}
+    </main>
+    <script>hljs.highlightAll();</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+{% extends "base.jinja" %}
+
+{% block main_template_content %}
+<h1> Tags </h1>
+<div>
+  {% for tag in base.tags %}
+  <a class="tag" href="/tags/{{tag}}.html"> {{tag}}</a>
+  {% endfor %}
+</div>
+
+<h1> Collections </h1>
+{% for collection in base.collections %}
+<h3 id="{{collection}}">{{collection}}</h3>
+{% for post in base.collections[collection] %}
+<p style="padding: 0 0.5em 0 0"><a href="{{post.link}}"> {{post.frontmatter.title}}</a> &rarr; {{post.frontmatter.description[:55] + "..." }}</p>
+{% endfor %}
+{% endfor %}
+
+{% endblock %}
