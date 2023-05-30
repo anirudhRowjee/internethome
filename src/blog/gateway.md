@@ -9,9 +9,13 @@ tags:
 ## Books
 
 Here's what I'm reading and/or have read.
+This might not be updated very frequently compared to [my goodreads](https://www.goodreads.com/user/show/58321145-anirudh-rowjee), so feel free to check that out too!
 
 ### Currently Reading
 
+- Hyperfocus by Chris Bailey
+- Foundation (Isaac Asimov)
+- Zen and the Art of Motorcycle Maintenance (Robert M Pirsig)
 - White Mountain (Robert Twigger)
 - Dune (Frank Herbert)
 - Hackers and Painters (Paul Graham)
@@ -41,6 +45,7 @@ These are some essays I want to keep re-reading frequently.
 - [Billionaries Build - Paul Graham](http://www.paulgraham.com/ace.html)
 - [Master of many trades - Robert Twigger](https://aeon.co/essays/we-live-in-a-one-track-world-but-anyone-can-become-a-polymath)
 - [Shower Thoughts - Sajith Pai](https://sajithpai.com/shower-thoughts/)
+- [What is Jobs to be Done (JTBD)? - Alan Klement](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
 - [Dancoland, Part 1 - Alex Danco](https://danco.substack.com/p/dancoland-part-one)
 - [Chesterton’s Fence: A Lesson in Second Order Thinking](https://fs.blog/chestertons-fence/)
 - [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
@@ -48,6 +53,7 @@ These are some essays I want to keep re-reading frequently.
 - [Cloudflare’s Disruption – Stratechery by Ben Thompson](https://stratechery.com/2021/cloudflares-disruption/)
 - [The dictatorship of the articulate - Flo Crivello](https://flocrivello.com/the-dictatorship-of-the-articulate/)
 - [Ambition as an Anxiety Disorder](https://moontower.substack.com/p/moontower-154)
+- [A message to Garcia Elbert Hubbard (PDF)](https://courses.csail.mit.edu/6.803/pdf/hubbard1899.pdf)
 
 ## Laws
 

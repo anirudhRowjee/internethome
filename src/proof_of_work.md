@@ -15,7 +15,18 @@ Proofs appear in reverse chronological order.
 
 ## 2023
 
-#### Started Building Saaru
+#### 🥼 Became Lab Head at PES Innovation Lab
+
+I became one of five Lab Heads at the esteemed [PES Innovation Lab](https://theinnovationlab.in).
+
+#### 🗣️ Talks
+
+I was invited to give a bunch of talks, specifically at -
+
+1. Rust Bengaluru May 2023 Meetup on Saaru - [material here](/blog/saaru.html)
+2. FOSS United Bengaluru Meetup on "The State of FOSS at Universities in the 2020s"
+
+#### 💻 Started Building Saaru
 
 Saaru is a static site generator written in Rust, and it's been used to generate the blog you're reading this site on! Check it out on [Github](https://github.com/anirudhRowjee/saaru), and feel free to look at the [documentation](https://saaru-docs.netlify.app).
 

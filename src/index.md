@@ -5,16 +5,22 @@ wip: false
 template: index.jinja
 ---
 
-Welcome to Anirudh's (Tinkerer, Engineer, Explorer, Poet) Digital Garden!
+Hi, I'm Anirudh (Builder, Tinkerer, Engineer, Explorer, Poet). Welcome to my Digital Garden!
 
-![The Great Wave off Kanagawa (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg)
-_The Great Wave off Kanagawa (Wikimedia Commons)_
+![Nandi Hills, May 2023](https://i.imgur.com/Pxf8q6b.jpg)
+_Nandi Hills, May 2023_
+
+<!-- _The Great Wave off Kanagawa (Wikimedia Commons)_ -->
+
+### About Me
 
 I'm currently studying Computer Science and Engineering at PES University, with a strong interest in Databases and Distributed Systems. I build [projects](/projects/) to understand the same. You can check out my tech side [here](/tech.html), and also look at my [proof of work](/proof_of_work.html) or my [github](https://github.com/anirudhRowjee).
 
 I like writing (to myself, to people, for people), reading (scifi, thrillers, space operas, mystery), and playing guitar (acoustic). I also really enjoy travelling and meeting new people.
 
-For an insight into what i'm currently up to and what sort of content I usually consume, check out the [gateway](/gateway.html).
+For an insight into what i'm currently up to and what sort of content I usually consume, check out the [gateway](/blog/gateway.html).
+
+### About this Website
 
 Fair warning - you _will_ find incomplete posts on this website. That's [by design](https://notes.andymatuschak.org/Work_with_the_garage_door_up).
 

@@ -7,9 +7,9 @@
 {% block main_template_content %}
 <div>
     <h1> {{frontmatter.title}} </h1>
+    <p> Anirudh Rowjee {% if frontmatter.date %}{{frontmatter.date}}{% endif %} </p>
     <p> {{frontmatter.description}} </p>
     <p>
-        {% if frontmatter.date %} Posted on {{frontmatter.date}} <br> {% endif %} 
         {% for tag in frontmatter.tags %}
         <a class="tag" href="/tags/{{tag}}"> {{ tag }} </a>
         {% endfor %}

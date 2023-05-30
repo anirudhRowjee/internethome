@@ -27,5 +27,3 @@ Helping grow the tech community at a student level and establishing a culture of
 - _[Rust](/tags/rust)_ - My introduction to systems programming and my current favorite language.
 - _[Golang](/tags/golang)_ - The concurrency model is very neat, and It's easy to write concurrent programs - I prefer golang for networked services / programs
 - _[Python](/tags/python)_ - My first language, so I'm still somewhat fluent!
-
-### Some Select Posts
