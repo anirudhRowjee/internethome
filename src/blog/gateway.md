@@ -54,6 +54,9 @@ These are some essays I want to keep re-reading frequently.
 - [The dictatorship of the articulate - Flo Crivello](https://flocrivello.com/the-dictatorship-of-the-articulate/)
 - [Ambition as an Anxiety Disorder](https://moontower.substack.com/p/moontower-154)
 - [A message to Garcia Elbert Hubbard (PDF)](https://courses.csail.mit.edu/6.803/pdf/hubbard1899.pdf)
+- [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+- [Science as a Craft Industry - Freeman Dyson](https://www.science.org/doi/10.1126/science.280.5366.1014)
+- [Shop Class as Soulcraft - Matthew B Crawford](https://www.thenewatlantis.com/publications/shop-class-as-soulcraft)
 
 ## Laws
 

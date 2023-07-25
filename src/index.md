@@ -7,12 +7,14 @@ template: index.jinja
 
 Hi, I'm Anirudh (Builder, Tinkerer, Engineer, Explorer, Poet). Welcome to my Digital Garden!
 
-![Nandi Hills, May 2023](https://i.imgur.com/Pxf8q6b.jpg)
-_Nandi Hills, May 2023_
+![My Personal Sigil](/static/images/sigil.png)
+_My Personal Sigil_
 
 <!-- _The Great Wave off Kanagawa (Wikimedia Commons)_ -->
 
 ### About Me
+
+*Update*: I'm currently a Systems Engineering Intern at [Bytebeam](https://bytebeam.io/)!
 
 I'm currently studying Computer Science and Engineering at PES University, with a strong interest in Databases and Distributed Systems. I build [projects](/projects/) to understand the same. You can check out my tech side [here](/tech.html), and also look at my [proof of work](/proof_of_work.html) or my [github](https://github.com/anirudhRowjee).
 
