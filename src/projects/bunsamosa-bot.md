@@ -5,6 +5,8 @@ github: "https://github.com/anirudhRowjee/bunsamosa-bot"
 tags: ["golang", "github"]
 collections:
   - projects
+meta:
+  github: https://github.com/anirudhRowjee/bunsamosa-bot
 icon:
   name: fas
   icon: user-shield

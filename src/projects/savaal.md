@@ -13,10 +13,11 @@ collections:
 icon:
   name: fas
   icon: spell-check
+meta:
+  github: https://github.com/anirudhRowjee/savaal
+  live: https://savaal.xyz
 ---
 
-::: tip
-Check it out here!
-:::
+::: tip Check it out here! :::
 
 Savaal was fun to build!

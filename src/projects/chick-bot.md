@@ -13,6 +13,8 @@ tags:
   ]
 collections:
   - projects
+meta:
+  github: https://github.com/anirudhRowjee/chick-bot
 icon:
   name: fas
   icon: egg

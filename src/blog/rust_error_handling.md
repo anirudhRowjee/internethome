@@ -7,7 +7,7 @@ collections:
   - rust
 tags:
   - featured
-  - wip
+  - WIP
   - tech
   - rust
 ---

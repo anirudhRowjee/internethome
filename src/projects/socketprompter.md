@@ -8,4 +8,6 @@ collections:
 icon:
   name: fas
   icon: tv
+meta:
+  github: https://github.com/anirudhRowjee/sockerprompter
 ---

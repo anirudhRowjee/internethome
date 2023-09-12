@@ -8,4 +8,6 @@ tags: ["rust", "crossbeam"]
 icon:
   name: fas
   icon: faucet
+meta:
+  github: https://github.com/anirudhRowjee/hypeviewer
 ---

@@ -8,4 +8,6 @@ collections:
 icon:
   name: fas
   icon: book-open
+meta:
+  github: https://github.com/anirudhRowjee/swiftlib-django
 ---

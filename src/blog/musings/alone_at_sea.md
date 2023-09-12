@@ -2,7 +2,7 @@
 title: Alone at Sea, Maintenance is a matter of Life and Death
 tags:
   - musings
-  - wip
+  - WIP
 collections:
   - musings
 description: Why is it important to maintain things?

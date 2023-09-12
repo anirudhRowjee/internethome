@@ -8,4 +8,6 @@ collections:
 icon:
   name: fas
   icon: user-shield
+meta:
+  github: https://github.com/anirudhRowjee/jumpnet
 ---

@@ -8,4 +8,6 @@ icon:
   icon: file-upload
 collections:
   - projects
+meta:
+  github: https://github.com/anirudhRowjee/scotty
 ---

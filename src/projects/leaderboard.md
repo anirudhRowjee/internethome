@@ -9,4 +9,6 @@ tags: ["react", "tailwindcss", "html + css"]
 icon:
   name: fas
   icon: trophy
+meta:
+  github: https://github.com/acmpesuecc/HackNight-LeaderBoard
 ---

@@ -7,18 +7,13 @@
 {% block main_template_content %}
 <div>
     <h1> {{frontmatter.title}} </h1>
-    <p> {{frontmatter.description}} </p>
-    <p>
-        {% if frontmatter.date %} Posted on {{frontmatter.date}} <br> {% endif %} 
-        {% for tag in frontmatter.tags %}
-        <a class="tag" href="/tags/{{tag}}"> {{ tag }} </a>
-        {% endfor %}
-    </p>
+    <p><i>{{frontmatter.description}} ~ Anirudh</i></p>
 </div>
 <div class="post">
     {{postcontent | safe}}
 </div>
-
+<br> 
+{% if frontmatter.date %} Published on: {{frontmatter.date}} <br/> {% endif %}
 {% if frontmatter.tags %}
 Tags: {% for tag in frontmatter.tags %}
 <a class="tag" href="/tags/{{tag}}">{{tag}}</a>

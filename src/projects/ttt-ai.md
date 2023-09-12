@@ -8,4 +8,6 @@ collections:
 icon:
   name: fas
   icon: brain
+meta:
+  github: https://github.com/anirudhRowjee/ttt-ai
 ---
