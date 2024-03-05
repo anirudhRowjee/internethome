@@ -6,6 +6,9 @@
 
 
 {% for post in base.tags["featured"] %}
-<p style="padding: 0 0.5em 0 0"><a href="{{post.link}}"> {{post.frontmatter.title}}</a> &rarr; {{post.frontmatter.description}}</p>
+<p style="padding: 0 0.5em 0 0">
+<a href="{{post.link}}"> {{post.frontmatter.title}}</a> <br/>
+{{post.frontmatter.description}}
+</p>
 {% endfor %}
 {% endblock %}

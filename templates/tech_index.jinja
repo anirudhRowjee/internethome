@@ -13,7 +13,7 @@
     {% for post in base.collections["projects"] %}
     <p style="padding: 0 0.5em 0 0"> 
       <a href="{{post.link}}"> {{post.frontmatter.title}}</a> [<a href={{post.frontmatter.meta.github}}>Github</a>{% if post.frontmatter.meta.live %} | <a href={{post.frontmatter.meta.live}}>Live Deployment</a>{% endif %}] <br/>
-      &rarr; {{post.frontmatter.description }} 
+      {{post.frontmatter.description }} 
     </p>
 
 {% endfor %}
