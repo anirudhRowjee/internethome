@@ -1,14 +1,13 @@
 {% extends "base.jinja" %}
 
 {% block main_template_content %}
-<h1> Anirudh Rowjee</h1>
+  <h1 id="header">Anirudh Rowjee</h1>
 {{postcontent | safe}}
 
 
-{% for post in base.tags["featured"] %}
+{% for post in base.tags["featured"]|sort(attribute="frontmatter.date", reverse=true)%}
 <p style="padding: 0 0.5em 0 0">
-<a href="{{post.link}}"> {{post.frontmatter.title}}</a> <br/>
-{{post.frontmatter.description}}
+{{post.frontmatter.date}} <a href="{{post.link}}"> {{post.frontmatter.title}}</a> <br/>
 </p>
 {% endfor %}
 {% endblock %}

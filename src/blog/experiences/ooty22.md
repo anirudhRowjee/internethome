@@ -10,4 +10,4 @@ tags:
   - photography
 ---
 
-I need to put up all the pictures here.
+I need to put up all the pictures here. This is a photowall!

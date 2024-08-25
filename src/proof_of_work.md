@@ -37,20 +37,22 @@ of Disk I/O by caching pages in userspace.
 
 #### ⏰ Gave a Talk on Lamport's "Time and Clocks" paper at College
 
-TODO Put Link\
-This was pretty fun, and given how well-written the paper was, I didn't need any
-slides to explain things.
+![](https://i.imgur.com/IIHoobn.jpg) This was pretty fun, and given how
+well-written the paper was, I didn't need any slides to explain things.
 
 #### 📝 Presented a Paper at the Distributed Systems Reading Group
 
-TODO Put Link\
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KsYZtphnC74?si=occUoEpkXi9KgQuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I presented the Oakestra paper, which focusses on an alternative to Kubernetes
 for the Edge.
 
 #### 🔍 Gave a Talk on Vector Databases
 
-TODO put slides\
-This was pretty fun too.
+[slides](https://docs.google.com/presentation/d/1qRv2nGVHjbFHXyUeUKK7bbvboj7Yal8UYcu_POEfWOQ/edit?usp=sharing)
+
+![](https://i.imgur.com/MuqHrgv.jpg)\
+_Picture Credit: Harini Anand_
 
 #### ⚡ Gave a Lightning Talk at GopherCon India 2023
 
@@ -61,6 +63,10 @@ The talk was about how I used Raft to implement a clone of Kafka (with a
 restricted subset of features) for a college project, bypassing an extremely
 expensive zookeeper implementation to achieve better fault tolerance and lesser
 manual supervision for scaling up and down.
+
+[slides](https://docs.google.com/presentation/d/1ON1qcTIS-aXhe82X9advyeEhMSdzMJn_4KZw7gIZf1k/edit?usp=sharing)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZeF6YX8pVTc?si=MTllM6tftf2muQwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 🔁 PESU Center for Innovation and Entrepreneurship: Level 2 (Aug-Dec 2023)
 

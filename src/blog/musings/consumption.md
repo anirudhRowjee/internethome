@@ -54,3 +54,9 @@ The aim of asking these questions isn't to say that these platforms, apps or tec
 2. What do we get out of all this?
 
 If a product is free, your time and attention is what you pay with. That's the truth. The more fragmented your attention is, the lesser you mind interruptions (i. e. Ads), so ads can be placed without you making out that is an interruption. Definitely a
+
+## The Continuation
+
+Update 2023-12-09  
+
+The more i've experienced daily life, the more I think about this post. I really should finish this. It appears we're fighting a losing battle with algorithms that are intent on making us dopamine-addled zombies just because we default to opening a feed when we're bored.
