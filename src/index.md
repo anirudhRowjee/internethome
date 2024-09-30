@@ -25,8 +25,7 @@ to talk about this (fair warning: I _will_ engage), please
 
 - Software Engineer on the Storage Team at [Couchbase](https://www.couchbase.com/), working on [Magma](https://www.couchbase.com/blog/magma-next-gen-document-storage-engine/)
 - Helping build [Bengaluru Systems Meetup](https://x.com/BengaluruSys)
-- Building [cpv](https://github.com/anirudhRowjee/cpv), a clone of the `pv` unix
-  utility, to learn Modern C++
+- In a rut with personal projects and figuring out how to do them more often!
 - Learning about MVCC, DB Transactions, Caches, LSM Trees
 - Co-Authored a paper on Time-Series Databases (Presented at
   [ICBDA 2024](https://www.icbda.org/), Waseda University, Japan)

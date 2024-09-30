@@ -9,8 +9,6 @@ template: post.jinja
 [Github](https://github.com/anirudhRowjee) |
 [Resume](/static/ANIRUDHROWJEE_CV.pdf)
 
-## Proof of Work
-
 I Value proof of work more than certifications or any other such credential or
 metric that can often fall prey to
 [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law). Along those
@@ -22,39 +20,51 @@ Proofs appear in reverse chronological order.
 
 ## 2024
 
-#### 🛋️ Started an Internship at Couchbase!
+### ⚙️ Started Bengaluru Systems along with my friends!
+[Bengaluru Systems Meetup](https://x.com/BengaluruSys) is a new meetup and community in Bengaluru which is a...
+> meetup about databases, distributed systems, dataflow systems, and compilers, in Bengaluru!
 
-Joined Couchbase as a Dev Intern.
+### 🛋️ Became a full-time engineer at Couchbase
+I work on the Storage team, working on [Magma](), our latest LSM-Tree based Storage Engine. 
+
+### Published my first research paper at ICBDA 2024!
+More details TBD.
+
+### 🛋️ Started an Internship at Couchbase!
+Joined Couchbase as a Developer Intern.
+- Started an internal research paper reading group 
+- Wrote a parallel load testing tool that hit ~200,000 Ops/sec on an M3 Pro with 36GB RAM
+- contributed to the AI journey of the company by ideating on and building proof of concept applications using Couchbase Vector Indices
 
 ## 2023
 
-#### 🛁 Started building Jacuzzi
+### 🛁 Started building Jacuzzi
 
 Jacuzzi is a concurrent Database Page Cache. It's built to avoid multiple rounds
 of Disk I/O by caching pages in userspace.
 
-#### Finished Capstone Project on Benchmarking Time-Series Databases for Observability Workloads
+### Finished Capstone Project on Benchmarking Time-Series Databases for Observability Workloads
 
-#### ⏰ Gave a Talk on Lamport's "Time and Clocks" paper at College
+### ⏰ Gave a Talk on Lamport's "Time and Clocks" paper at College
 
 ![](https://i.imgur.com/IIHoobn.jpg) This was pretty fun, and given how
 well-written the paper was, I didn't need any slides to explain things.
 
-#### 📝 Presented a Paper at the Distributed Systems Reading Group
+### 📝 Presented a Paper at the Distributed Systems Reading Group
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KsYZtphnC74?si=occUoEpkXi9KgQuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I presented the Oakestra paper, which focusses on an alternative to Kubernetes
 for the Edge.
 
-#### 🔍 Gave a Talk on Vector Databases
+### 🔍 Gave a Talk on Vector Databases
 
 [slides](https://docs.google.com/presentation/d/1qRv2nGVHjbFHXyUeUKK7bbvboj7Yal8UYcu_POEfWOQ/edit?usp=sharing)
 
 ![](https://i.imgur.com/MuqHrgv.jpg)\
 _Picture Credit: Harini Anand_
 
-#### ⚡ Gave a Lightning Talk at GopherCon India 2023
+### ⚡ Gave a Lightning Talk at GopherCon India 2023
 
 Doing a completely unplanned Flash Talk turned out to be more fun than I
 expected.
@@ -68,13 +78,13 @@ manual supervision for scaling up and down.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZeF6YX8pVTc?si=MTllM6tftf2muQwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### 🔁 PESU Center for Innovation and Entrepreneurship: Level 2 (Aug-Dec 2023)
+### 🔁 PESU Center for Innovation and Entrepreneurship: Level 2 (Aug-Dec 2023)
 
 I finished Level 2 of CIE's course, which covers starting and running a "Lean"
 startup. The course focussed on customer discovery and Lean validation, and
 included lots of hands-on customer discovery and interaction.
 
-#### 👨‍🏫 Teaching Assistant, Big Data at PES University (Aug-Dec 2023)
+### 👨‍🏫 Teaching Assistant, Big Data at PES University (Aug-Dec 2023)
 
 Responsibilites included -
 
@@ -86,7 +96,7 @@ Responsibilites included -
 3. Grading and Evaluating projects and assignment submissions
 4. Helping clear student doubts
 
-#### ⚙️ Systems Engineering Intern at Bytebeam (Jun-Aug 2023)
+### ⚙️ Systems Engineering Intern at Bytebeam (Jun-Aug 2023)
 
 At Bytebeam, I worked on a number of projects, including -
 
@@ -95,12 +105,12 @@ At Bytebeam, I worked on a number of projects, including -
 - Next-Generation Distributed MQTT Broker in Rust: Designed and Implemented
   components of a distributed commit-log based MQTT Broker in Rust
 
-#### 🥼 Became Lab Head at PES Innovation Lab
+### 🥼 Became Lab Head at PES Innovation Lab
 
 I became one of five Lab Heads at the esteemed
 [PES Innovation Lab](https://theinnovationlab.in).
 
-#### 🗣️ Talks
+### 🗣️ Talks
 
 I was invited to give a bunch of talks, specifically at -
 
@@ -108,7 +118,7 @@ I was invited to give a bunch of talks, specifically at -
 2. FOSS United Bengaluru Meetup on "The State of FOSS at Universities in the
    2020s"
 
-#### 💻 Started Building Saaru
+### 💻 Started Building Saaru
 
 Saaru is a static site generator written in Rust, and it's been used to generate
 the blog you're reading this site on! Check it out on
@@ -122,31 +132,31 @@ the blog you're reading this site on! Check it out on
 <!-- Worked on the ONDC Team. -->
 <!---->
 
-#### Tech Lead - Hacknight 4.0
+### Tech Lead - Hacknight 4.0
 
 Led a team of developers and maintainers as part of ACM PESUECC's Hacknight,
 also architected and implemented
 [BunSamosa-Bot](https://github.com/anirudhRowjee/bunsamosa-bot), the official
 event bot.
 
-#### Rustlang 101
+### Rustlang 101
 
 Conducted a workshop on Rust with PES Innovation Lab
 
-#### Golang 101
+### Golang 101
 
 Conducted a workshop on Golang with Hackerspace.
 
-#### Vice-Chairperson - ACM PESUECC
+### Vice-Chairperson - ACM PESUECC
 
 I was appointed Vice-Chairperson of ACM PESUECC.
 
-#### Attending Meetups and Conferences
+### Attending Meetups and Conferences
 
 Attended and participated in Deepsource's `.meetup` series and
 [IndiaFOSS 2022](https://indiafoss.net/)
 
-#### Project Intern at PES Innovation Lab (Jun-Jul)
+### Project Intern at PES Innovation Lab (Jun-Jul)
 
 Here, I worked on a project called PseudoDeploy, which uses Kubernetes to
 automate and enhance the Federated Learning Research Process and experience. The
@@ -154,13 +164,13 @@ process involved diving deep into Kubernetes as well as the Flower framework for
 federated learning. Bonus fun part - getting to setup a mini kubernetes cluster
 from scratch!
 
-#### PESU Center for Innovation and Entrepreneurship: Level 1
+### PESU Center for Innovation and Entrepreneurship: Level 1
 
 I finished Level 1 of CIE's course, which detailed all the basics of starting
 up, straight from idea generation to the basics of financial knowledge required,
 along with a healthy dose of hands-on activities.
 
-#### Student Developer, Microsoft Technology Center Bengaluru
+### Student Developer, Microsoft Technology Center Bengaluru
 
 Here I worked independently on the setup and implementation of an Azure-Enabled
 Hydroponics Monitoring System. I was involved in both the hardware and software
@@ -171,26 +181,26 @@ discussed
 
 ## 2021
 
-#### Contributed to Meilisearch
+### Contributed to Meilisearch
 
 Read more [on the blog post about this](blog/experiences/meilisearch_2021.html)
 
-#### LaunchPad 2021
+### LaunchPad 2021
 
 Organized and Conducted an Ideathon supported by PESU Venture Labs
 
-#### Tech Lead: HackNight 2021
+### Tech Lead: HackNight 2021
 
 Led a team of developers and open-source maintainers to conduct HackNight, ACM
 PESUECC's annual Hacktoberfest event. Implemented and Optimized
 [Chick-bot](https://github.com/anirudhRowjee/chick-bot), the official event bot.
 
-#### Git Up and Running 2021
+### Git Up and Running 2021
 
 Conducted a [workshop on Git](blog/git_up_and_running.html), and taught 200+
 students about the basics of contributing to open source.
 
-#### Core Team Lead, HackerSpace PESUECC
+### Core Team Lead, HackerSpace PESUECC
 
 I was appointed the founding core team lead of
 [HackerSpace PESUECC](https://hsp-ec.xyz), which is a student-driven developer
@@ -198,12 +208,12 @@ and Open-source community. As of the date of writing this, HackerSpace ECC is
 now a vibrant and well-known fixture of the PESU Student Community, comprising
 of more than 35 Staff members.
 
-#### Started Learning Rust
+### Started Learning Rust
 
 I don't have to say too much more :D
 
 ## 2020
 
-#### Joined PES University
+### Joined PES University
 
 oof.

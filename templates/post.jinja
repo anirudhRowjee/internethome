@@ -5,6 +5,7 @@
 {% endblock %}
 
 {% block main_template_content %}
+
 <div>
 <h1> {{frontmatter.title}} </h1>
 <!-- <p><i>{{frontmatter.description}} ~ Anirudh</i></p> -->
@@ -12,16 +13,24 @@
 <div class="post">
     {{postcontent}}
 </div>
-<br> 
+
+<div style="color:grey">
+<br/>
+
 {% if frontmatter.date %} Published on: {{frontmatter.date}} <br/> {% endif %}
+
 {% if frontmatter.tags %}
 Tags: {% for tag in frontmatter.tags %}
 <a class="tag" href="/tags/{{tag}}">{{tag}}</a>
 {% endfor %}
 {% endif %}
+
 {% if frontmatter.collections %}
 Collections: {% for tag in frontmatter.collections %}
 <a class="tag" href="/tags#{{tag}}">{{tag}}</a>
 {% endfor %}
 {% endif %}
+
+</div>
+
 {% endblock %}
